@@ -47,3 +47,39 @@ Repository for Udacity Deep Learning Program
 - https://www.manning.com/books/grokking-deep-learning
 - http://neuralnetworksanddeeplearning.com/
 - http://www.deeplearningbook.org/
+
+
+- http://jupyter.org/
+- https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html
+- https://www.ligo.caltech.edu/news/ligo20160211
+- http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb
+- http://nbviewer.jupyter.org/github/masinoa/machine_learning/blob/master/04_Neural_Networks.ipynb
+- http://nbviewer.jupyter.org/github/tdhopper/rta-pyspark-presentation/blob/master/slides.ipynb
+- https://github.com/mcleonard/blog_posts/blob/master/body_fat_percentage.ipynb
+- http://nbviewer.jupyter.org/
+- http://www.literateprogramming.com/
+- http://www.witheve.com/
+- https://ipython.org/
+- https://www.r-project.org/
+- http://julialang.org/
+- https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+- http://jupyter-notebook.readthedocs.io/en/latest/public_server.html
+- http://localhost:8888/
+- https://ipyparallel.readthedocs.io/en/latest/intro.html
+- https://daringfireball.net/projects/markdown/
+- http://docutils.sourceforge.net/rst.html
+- http://video.udacity-data.com.s3.amazonaws.com/topher/2016/December/58474202_working-with-code-cells/working-with-code-cells.ipynb
+- https://daringfireball.net/projects/markdown/basics
+- https://www.latex-project.org/
+- https://www.latex-tutorial.com/
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- http://video.udacity-data.com.s3.amazonaws.com/topher/2017/April/58e412d0_keyboard-shortcuts/keyboard-shortcuts.ipynb
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
