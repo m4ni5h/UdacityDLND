@@ -48,7 +48,7 @@ Repository for Udacity Deep Learning Program
 - http://neuralnetworksanddeeplearning.com/
 - http://www.deeplearningbook.org/
 
-
+## Jupyter Notebook Links
 - http://jupyter.org/
 - https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html
 - https://www.ligo.caltech.edu/news/ligo20160211
@@ -74,12 +74,12 @@ Repository for Udacity Deep Learning Program
 - https://www.latex-tutorial.com/
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - http://video.udacity-data.com.s3.amazonaws.com/topher/2017/April/58e412d0_keyboard-shortcuts/keyboard-shortcuts.ipynb
-- 
-- 
-- 
-- 
-- 
-- 
+- http://matplotlib.org/faq/usage_faq.html#what-is-a-backend
+- https://docs.python.org/3/library/pdb.html
+- http://ipython.readthedocs.io/en/stable/interactive/magics.html
+- https://nbconvert.readthedocs.io/en/latest/usage.html
+- http://nbviewer.jupyter.org/format/slides/github/jorisvandenbossche/2015-PyDataParis/blob/master/pandas_introduction.ipynb#/
+- https://nbviewer.jupyter.org/github/jorisvandenbossche/2015-PyDataParis/blob/master/pandas_introduction.ipynb
 - 
 - 
 - 
