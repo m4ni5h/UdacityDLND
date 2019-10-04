@@ -72,6 +72,7 @@ Repository for Udacity Deep Learning Program
 - https://daringfireball.net/projects/markdown/basics
 - https://www.latex-project.org/
 - https://www.latex-tutorial.com/
+- https://www.latex-tutorial.com/tutorials/
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - http://video.udacity-data.com.s3.amazonaws.com/topher/2017/April/58e412d0_keyboard-shortcuts/keyboard-shortcuts.ipynb
 - http://matplotlib.org/faq/usage_faq.html#what-is-a-backend
