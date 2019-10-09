@@ -81,6 +81,11 @@ Repository for Udacity Deep Learning Program
 - https://nbconvert.readthedocs.io/en/latest/usage.html
 - http://nbviewer.jupyter.org/format/slides/github/jorisvandenbossche/2015-PyDataParis/blob/master/pandas_introduction.ipynb#/
 - https://nbviewer.jupyter.org/github/jorisvandenbossche/2015-PyDataParis/blob/master/pandas_introduction.ipynb
-- 
-- 
+
+## Numpy
+- https://docs.scipy.org/doc/numpy/reference/
+- https://docs.scipy.org/doc/numpy/reference/arrays.scalars.html
+- https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
+- https://docs.scipy.org/doc/numpy/reference/arrays.indexing.html
+- https://docs.scipy.org/doc/numpy/reference/generated/numpy.reshape.html
 - 
