@@ -3,16 +3,16 @@ import numpy as np
 
 
 def prepare_inputs(inputs):
-    # TODO: create a 2-dimensional ndarray from the given 1-dimensional list;
+    #  create a 2-dimensional ndarray from the given 1-dimensional list;
     #       assign it to input_array
     input_array = np.array([inputs])
     
-    # TODO: find the minimum value in input_array and subtract that
+    #  find the minimum value in input_array and subtract that
     #       value from all the elements of input_array. Store the
     #       result in inputs_minus_min
     inputs_minus_min = input_array - np.min(input_array)
 
-    # TODO: find the maximum value in inputs_minus_min and divide
+    #  find the maximum value in inputs_minus_min and divide
     #       all of the values in inputs_minus_min by the maximum value.
     #       Store the results in inputs_div_max.
     inputs_div_max = inputs_minus_min / np.max(inputs_minus_min)
@@ -22,7 +22,7 @@ def prepare_inputs(inputs):
     
 
 def multiply_inputs(m1, m2):
-    # TODO: Check the shapes of the matrices m1 and m2. 
+    #  Check the shapes of the matrices m1 and m2. 
     #       m1 and m2 will be ndarray objects.
     #
     #       Return False if the shapes cannot be used for matrix
@@ -31,7 +31,7 @@ def multiply_inputs(m1, m2):
         return False
 
 
-    # TODO: If you have not returned False, then calculate the matrix product
+    #  If you have not returned False, then calculate the matrix product
     #       of m1 and m2 and return it. Do not use a transpose,
     #       but you swap their order if necessary
     if m1.shape[1] == m2.shape[0]:
@@ -41,7 +41,7 @@ def multiply_inputs(m1, m2):
     
 
 def find_mean(values):
-    # TODO: Return the average of the values in the given Python list
+    #  Return the average of the values in the given Python list
     return np.mean(values)
 
 
