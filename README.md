@@ -89,3 +89,6 @@ Repository for Udacity Deep Learning Program
 - https://docs.scipy.org/doc/numpy/reference/arrays.indexing.html
 - https://docs.scipy.org/doc/numpy/reference/generated/numpy.reshape.html
 - 
+
+
+https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html
