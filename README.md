@@ -94,6 +94,7 @@ Repository for Udacity Deep Learning Program
 - http://neuralnetworksanddeeplearning.com/chap2.html
 
 ## Loss function for gradient descent (Minimize error) (Neural Network Backpropagation)
+- https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
 - https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html
 - https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html#cross-entropy (Cross-entropy loss, or log loss)
 - https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html#mse-l2
