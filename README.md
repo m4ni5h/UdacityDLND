@@ -90,7 +90,12 @@ Repository for Udacity Deep Learning Program
 - https://docs.scipy.org/doc/numpy/reference/generated/numpy.reshape.html
 - 
 
+## Backpropagation
+- http://neuralnetworksanddeeplearning.com/chap2.html
 
+## Loss function for gradient descent (Minimize error) (Neural Network Backpropagation)
 - https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html
+- https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html#cross-entropy (Cross-entropy loss, or log loss)
+- https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html#mse-l2
 
 - git clone https://github.com/udacity/deep-learning-v2-pytorch.git
