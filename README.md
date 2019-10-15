@@ -91,4 +91,6 @@ Repository for Udacity Deep Learning Program
 - 
 
 
-https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html
+- https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html
+
+- git clone https://github.com/udacity/deep-learning-v2-pytorch.git
