@@ -1,8 +1,6 @@
 # UdacityDLND
 Repository for Udacity Deep Learning Program
 
-
-
 # Links 1. Introduction to Deep Learning
 - http://cs231n.github.io/convolutional-networks/
 - https://www.manning.com/books/grokking-deep-learning
@@ -100,3 +98,5 @@ Repository for Udacity Deep Learning Program
 - https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html#mse-l2
 
 - git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+
+- Gradient(https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives/v/gradient)
