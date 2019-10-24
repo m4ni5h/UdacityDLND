@@ -101,3 +101,5 @@ Repository for Udacity Deep Learning Program
 
 - Gradient(https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives/v/gradient)
 - https://distill.pub/2017/momentum/
+
+- https://stats.idre.ucla.edu/stat/data/binary.csv
