@@ -100,3 +100,4 @@ Repository for Udacity Deep Learning Program
 - git clone https://github.com/udacity/deep-learning-v2-pytorch.git
 
 - Gradient(https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives/v/gradient)
+- https://distill.pub/2017/momentum/
