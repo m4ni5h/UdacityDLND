@@ -1,8 +1,6 @@
 # UdacityDLND
 Repository for Udacity Deep Learning Program
 
-
-
 # Links 1. Introduction to Deep Learning
 - http://cs231n.github.io/convolutional-networks/
 - https://www.manning.com/books/grokking-deep-learning
@@ -81,6 +79,25 @@ Repository for Udacity Deep Learning Program
 - https://nbconvert.readthedocs.io/en/latest/usage.html
 - http://nbviewer.jupyter.org/format/slides/github/jorisvandenbossche/2015-PyDataParis/blob/master/pandas_introduction.ipynb#/
 - https://nbviewer.jupyter.org/github/jorisvandenbossche/2015-PyDataParis/blob/master/pandas_introduction.ipynb
+
+## Numpy
+- https://docs.scipy.org/doc/numpy/reference/
+- https://docs.scipy.org/doc/numpy/reference/arrays.scalars.html
+- https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
+- https://docs.scipy.org/doc/numpy/reference/arrays.indexing.html
+- https://docs.scipy.org/doc/numpy/reference/generated/numpy.reshape.html
 - 
-- 
-- http://www.numpy.org/
+
+## Backpropagation
+- http://neuralnetworksanddeeplearning.com/chap2.html
+
+## Loss function for gradient descent (Minimize error) (Neural Network Backpropagation)
+- https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
+- https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html
+- https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html#cross-entropy (Cross-entropy loss, or log loss)
+- https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html#mse-l2
+
+- git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+
+- Gradient(https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives/v/gradient)
+- https://distill.pub/2017/momentum/
