@@ -83,4 +83,4 @@ Repository for Udacity Deep Learning Program
 - https://nbviewer.jupyter.org/github/jorisvandenbossche/2015-PyDataParis/blob/master/pandas_introduction.ipynb
 - 
 - 
-- 
+- http://www.numpy.org/
