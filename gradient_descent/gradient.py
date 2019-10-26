@@ -8,7 +8,7 @@ def sigmoid(x):
     """
     return 1 / (1 + np.exp(-x))
 
-# TODO: We haven't provided the sigmoid_prime function like we did in
+#  We haven't provided the sigmoid_prime function like we did in
 #       the previous lesson to encourage you to come up with a more
 #       efficient solution. If you need a hint, check out the comments
 #       in solution.py from the previous lecture.
@@ -35,24 +35,24 @@ for e in range(epochs):
         #       lesson. You can add it if you want, or you can calculate
         #       the h together with the output
 
-        # TODO: Calculate the output
-        output = None
+        #  Calculate the output
+        output = sigmoid(np.dot(x, weights))
 
-        # TODO: Calculate the error
-        error = None
+        #  Calculate the error
+        error = y - output
 
-        # TODO: Calculate the error term
-        error_term = None
+        #  Calculate the error term
+        error_term = error * output * (1 - output)
 
-        # TODO: Calculate the change in weights for this sample
+        #  Calculate the change in weights for this sample
         #       and add it to the total weight change
-        del_w += 0
+        del_w += error_term * x
 
-    # TODO: Update weights using the learning rate and the average change in weights
-    weights += 0
+    #  Update weights using the learning rate and the average change in weights
+    weights += learnrate * del_w / n_records
 
     # Printing out the mean square error on the training set
-    if e % (epochs / 10) == 0:
+    if e % (epochs / 20) == 0:
         out = sigmoid(np.dot(features, weights))
         loss = np.mean((out - targets) ** 2)
         if last_loss and last_loss < loss:

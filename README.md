@@ -103,3 +103,7 @@ Repository for Udacity Deep Learning Program
 - https://distill.pub/2017/momentum/
 
 - https://stats.idre.ucla.edu/stat/data/binary.csv
+
+- https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra
+- https://www.khanacademy.org/math/precalculus/precalc-matrices
+
