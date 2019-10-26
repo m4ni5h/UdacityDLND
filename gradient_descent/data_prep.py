@@ -13,7 +13,7 @@ for field in ['gre', 'gpa']:
     data.loc[:,field] = (data[field]-mean)/std
     
 # Split off random 10% of the data for testing
-np.random.seed(42)
+np.random.seed(21)
 sample = np.random.choice(data.index, size=int(len(data)*0.9), replace=False)
 data, test_data = data.ix[sample], data.drop(sample)
 

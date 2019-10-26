@@ -29,32 +29,32 @@ for e in range(epochs):
     for x, y in zip(features.values, targets):
         ## Forward pass ##
         # Calculate the output
-        hidden_input = None
-        hidden_output = None
-        output = None
+        hidden_input = np.dot(x, weights_input_hidden)
+        hidden_output = sigmoid(hidden_input)
+        output = sigmoid(np.dot(hidden_output, weights_hidden_output))
 
         ## Backward pass ##
         # Calculate the network's prediction error
-        error = None
+        error = y - output
 
         # Calculate error term for the output unit
-        output_error_term = None
+        output_error_term = error * output * (1 - output)
 
         ## propagate errors to hidden layer
 
         # Calculate the hidden layer's contribution to the error
-        hidden_error = None
+        hidden_error = np.dot(output_error_term, weights_hidden_output)
         
         # Calculate the error term for the hidden layer
-        hidden_error_term = None
+        hidden_error_term = hidden_error * hidden_output * (1 - hidden_output)
         
         # Update the change in weights
-        del_w_hidden_output += 0
-        del_w_input_hidden += 0
+        del_w_hidden_output += output_error_term * hidden_output
+        del_w_input_hidden += hidden_error_term * x[:, None]
 
     # Update weights  (don't forget to division by n_records or number of samples)
-    weights_input_hidden += 0
-    weights_hidden_output += 0
+    weights_input_hidden += learnrate * del_w_input_hidden / n_records
+    weights_hidden_output += learnrate * del_w_hidden_output / n_records
 
     # Printing out the mean square error on the training set
     if e % (epochs / 10) == 0:
