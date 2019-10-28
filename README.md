@@ -86,24 +86,21 @@ Repository for Udacity Deep Learning Program
 - https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
 - https://docs.scipy.org/doc/numpy/reference/arrays.indexing.html
 - https://docs.scipy.org/doc/numpy/reference/generated/numpy.reshape.html
-- 
 
 ## Backpropagation
 - http://neuralnetworksanddeeplearning.com/chap2.html
+- https://www.youtube.com/watch?v=59Hbtz7XgjM (CS231n Winter 2016 Lecture 4 Backpropagation, Neural Networks)
 
 ## Loss function for gradient descent (Minimize error) (Neural Network Backpropagation)
 - https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
 - https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html
 - https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html#cross-entropy (Cross-entropy loss, or log loss)
 - https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html#mse-l2
-
 - git clone https://github.com/udacity/deep-learning-v2-pytorch.git
-
 - Gradient(https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives/v/gradient)
 - https://distill.pub/2017/momentum/
-
 - https://stats.idre.ucla.edu/stat/data/binary.csv
-
 - https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra
 - https://www.khanacademy.org/math/precalculus/precalc-matrices
-
+- https://video.udacity-data.com/topher/2019/October/5da05a3f_dlnd-p1-lessons-cheat-sheet-1/dlnd-p1-lessons-cheat-sheet-1.pdf
+- https://www.youtube.com/watch?v=ht6fLrar91U (AI, Deep Learning, and Machine Learning: A Primer)
