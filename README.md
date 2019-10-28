@@ -90,6 +90,7 @@ Repository for Udacity Deep Learning Program
 ## Backpropagation
 - http://neuralnetworksanddeeplearning.com/chap2.html
 - https://www.youtube.com/watch?v=59Hbtz7XgjM (CS231n Winter 2016 Lecture 4 Backpropagation, Neural Networks)
+- https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.vt3ax2kg9
 
 ## Loss function for gradient descent (Minimize error) (Neural Network Backpropagation)
 - https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
