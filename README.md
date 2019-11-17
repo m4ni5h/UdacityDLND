@@ -105,3 +105,8 @@ Repository for Udacity Deep Learning Program
 - https://www.khanacademy.org/math/precalculus/precalc-matrices
 - https://video.udacity-data.com/topher/2019/October/5da05a3f_dlnd-p1-lessons-cheat-sheet-1/dlnd-p1-lessons-cheat-sheet-1.pdf
 - https://www.youtube.com/watch?v=ht6fLrar91U (AI, Deep Learning, and Machine Learning: A Primer)
+
+## Pytorch
+- https://research.fb.com/category/facebook-ai-research-fair/
+- https://pytorch.org/get-started/locally/
+- 
