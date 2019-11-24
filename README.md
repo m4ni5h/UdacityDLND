@@ -110,3 +110,41 @@ Repository for Udacity Deep Learning Program
 - https://research.fb.com/category/facebook-ai-research-fair/
 - https://pytorch.org/get-started/locally/
 - 
+
+
+## CNNs
+- https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+- http://www.creativeai.net/posts/W2C3baXvf2yJSLbY6/a-neural-parametric-singing-synthesizer
+- http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
+- https://www.getrevue.co/profile/wildml
+- https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/
+- https://deepmind.com/research/dqn/
+- https://sites.google.com/a/deepmind.com/dqn/
+- http://karpathy.github.io/2016/05/31/rl/
+- https://quickdraw.withgoogle.com/#
+- https://aiexperiments.withgoogle.com/
+- https://www.autodraw.com/
+- https://deepmind.com/research/alphago/
+- https://www.technologyreview.com/s/604273/finding-solace-in-defeat-by-artificial-intelligence/?set=604287
+- https://www.youtube.com/watch?v=AMDiR61f86Y
+- http://www.droneomega.com/gps-drone-navigation-works/
+- https://www.youtube.com/watch?v=wSFYOw4VIYY
+- https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013
+- http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
+- https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project
+- https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009
+- http://ufldl.stanford.edu/housenumbers/
+- https://github.com/udacity/machine-learning/tree/master/projects/digit_recognition
+- https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/
+- http://www.businessinsider.com/3d-printed-works-of-art-for-the-blind-2016-1
+- https://www.cs.nyu.edu/~deigen/depth/
+- https://research.googleblog.com/2017/03/assisting-pathologists-in-detecting.html
+- https://blogs.nvidia.com/blog/2016/11/04/saving-endangered-species/?adbsc=social_20170303_70517416
+- http://www.digitaltrends.com/photography/faceapp-neural-net-image-editing/
+- https://twitter.com/cezannecam
+- https://www.kaggle.com/benhamner/popular-datasets-over-time
+- https://nips.cc/
+- https://pytorch.org/docs/stable/torchvision/transforms.html#transforms-on-torch-tensor
+- http://mathworld.wolfram.com/GaussianFunction.html
+- https://pytorch.org/docs/stable/nn.html#crossentropyloss
+- https://pytorch.org/docs/stable/nn.html#nllloss
