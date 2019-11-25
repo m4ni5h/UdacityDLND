@@ -150,4 +150,6 @@ Repository for Udacity Deep Learning Program
 - https://pytorch.org/docs/stable/nn.html#nllloss
 - https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf (first research paper to propose dropout as a technique for overfitting.)
 - http://cs231n.github.io/neural-networks-1/#actfun (more information on activation functions)
-d
+
+- http://yann.lecun.com/exdb/mnist/
+- 
