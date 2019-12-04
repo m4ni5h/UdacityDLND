@@ -153,3 +153,8 @@ Repository for Udacity Deep Learning Program
 - http://yann.lecun.com/exdb/mnist/
 - http://setosa.io/ev/image-kernels/
 - https://pytorch.org/docs/stable/nn.html#avgpool2d
+- https://cezannec.github.io/Capsule_Networks/
+- https://github.com/cezannec/capsule_net_pytorch
+- https://video.udacity-data.com/topher/2018/November/5bfdca4f_dynamic-routing/dynamic-routing.pdf
+- https://www.youtube.com/watch?v=pPN8d0E3900&list=PLuTYjXW7aAt3HLCATBOkkXtifCVAm0O_A (Aurélien Géron's Video)
+- 
