@@ -152,3 +152,4 @@ Repository for Udacity Deep Learning Program
 - http://cs231n.github.io/neural-networks-1/#actfun (more information on activation functions)
 - http://yann.lecun.com/exdb/mnist/
 - http://setosa.io/ev/image-kernels/
+- https://pytorch.org/docs/stable/nn.html#avgpool2d
