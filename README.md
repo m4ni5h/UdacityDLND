@@ -158,4 +158,25 @@ Repository for Udacity Deep Learning Program
 - https://video.udacity-data.com/topher/2018/November/5bfdca4f_dynamic-routing/dynamic-routing.pdf
 - https://www.youtube.com/watch?v=pPN8d0E3900&list=PLuTYjXW7aAt3HLCATBOkkXtifCVAm0O_A (Aurélien Géron's Video)
 - http://blog.kaggle.com/2015/01/02/cifar-10-competition-winners-interviews-with-dr-ben-graham-phil-culliton-zygmunt-zajac/
-- 
+- http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf (AlexNet)
+- https://arxiv.org/pdf/1409.1556.pdf (VGGNet)
+- https://arxiv.org/pdf/1512.03385v1.pdf (ResNet)
+- https://keras.io/applications/ (Keras documentation for famous CNN Arch)
+- http://neuralnetworksanddeeplearning.com/chap5.html (Vanishing Gradient)
+- https://github.com/jcjohnson/cnn-benchmarks (CNN Arch Benchmark)
+- http://www.image-net.org/challenges/LSVRC/ (ImageNet ILSVRC)
+
+## CNNs COOL STUFFs Visualizing CNNs
+- http://cs231n.github.io/understanding-cnn/ Stanford's CS231n course on visualizing what CNN
+- https://aiexperiments.withgoogle.com/what-neural-nets-see 
+- http://openframeworks.cc/
+- https://www.youtube.com/watch?v=AgkfIQ4IGaM&t=78s
+- https://www.youtube.com/watch?v=ghEmQSxT6tw&t=5s
+- https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html
+- https://www.youtube.com/watch?v=XatXy6ZhKZw
+- https://deepdreamgenerator.com/
+- https://blog.openai.com/adversarial-example-research/
+- https://arxiv.org/abs/1611.03530
+- https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf
+- https://www.youtube.com/watch?v=ghEmQSxT6tw
+
