@@ -180,3 +180,7 @@ Repository for Udacity Deep Learning Program
 - https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf
 - https://www.youtube.com/watch?v=ghEmQSxT6tw
 
+## Transfer Learning
+- https://arxiv.org/pdf/1411.1792.pdf
+- http://www.nature.com/articles/nature21056.epdf?referrer_access_token=_snzJ5POVSgpHutcNN4lEtRgN0jAjWel9jnR3ZoTv0NXpMHRAJy8Qn10ys2O4tuP9jVts1q2g1KBbk3Pd3AelZ36FalmvJLxw1ypYW0UxU7iShiMp86DmQ5Sh3wOBhXDm9idRXzicpVoBBhnUsXHzVUdYCPiVV0Slqf-Q25Ntb1SX_HAv3aFVSRgPbogozIHYQE3zSkyIghcAppAjrIkw1HtSwMvZ1PXrt6fVYXt-dvwXKEtdCN8qEHg0vbfl4_m&tracking_referrer=edition.cnn.com
+
