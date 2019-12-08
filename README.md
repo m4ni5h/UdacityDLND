@@ -157,4 +157,5 @@ Repository for Udacity Deep Learning Program
 - https://github.com/cezannec/capsule_net_pytorch
 - https://video.udacity-data.com/topher/2018/November/5bfdca4f_dynamic-routing/dynamic-routing.pdf
 - https://www.youtube.com/watch?v=pPN8d0E3900&list=PLuTYjXW7aAt3HLCATBOkkXtifCVAm0O_A (Aurélien Géron's Video)
+- http://blog.kaggle.com/2015/01/02/cifar-10-competition-winners-interviews-with-dr-ben-graham-phil-culliton-zygmunt-zajac/
 - 
