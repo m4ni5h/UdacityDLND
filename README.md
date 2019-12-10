@@ -185,6 +185,6 @@ Repository for Udacity Deep Learning Program
 - http://www.nature.com/articles/nature21056.epdf?referrer_access_token=_snzJ5POVSgpHutcNN4lEtRgN0jAjWel9jnR3ZoTv0NXpMHRAJy8Qn10ys2O4tuP9jVts1q2g1KBbk3Pd3AelZ36FalmvJLxw1ypYW0UxU7iShiMp86DmQ5Sh3wOBhXDm9idRXzicpVoBBhnUsXHzVUdYCPiVV0Slqf-Q25Ntb1SX_HAv3aFVSRgPbogozIHYQE3zSkyIghcAppAjrIkw1HtSwMvZ1PXrt6fVYXt-dvwXKEtdCN8qEHg0vbfl4_m&tracking_referrer=edition.cnn.com
 
 ## Weight Initialization
-http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf	 Understanding the difficulty of training deep feedforward neural networks
-https://arxiv.org/pdf/1502.01852v1.pdf	 Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
-https://arxiv.org/pdf/1502.03167v2.pdf	 Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+- http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf Understanding the difficulty of training deep feedforward neural networks
+- https://arxiv.org/pdf/1502.01852v1.pdf Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
+- https://arxiv.org/pdf/1502.03167v2.pdf Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
