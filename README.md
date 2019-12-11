@@ -191,3 +191,24 @@ Repository for Udacity Deep Learning Program
 
 ## Style Transfer
 - https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
+
+## RNN
+- https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning
+- https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
+- https://en.wikipedia.org/wiki/Vanishing_gradient_problem	 Vanishing Gradient
+- https://socratic.org/algebra/exponents-and-exponential-functions/geometric-sequences-and-exponential-functions	 Geometric Series
+- https://en.wikipedia.org/wiki/Time_delay_neural_network	 TDNN
+- http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1402_1/abstract	 Elman Network
+- https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks	 additional info
+- http://www.bioinf.jku.at/publications/older/2604.pdf	 LSTM
+- https://en.wikipedia.org/wiki/Sepp_Hochreiter	 Sepp Hochreiter
+- http://people.idsia.ch/~juergen/	 Jürgen Schmidhuber
+- https://deeplearning4j.org/lstm.html	 blog
+
+## RNN Applications
+- https://blog.openai.com/dota-2/	 DotA 2 bot by Open AI
+- https://www.youtube.com/watch?time_continue=1&v=0FW99AQmMc8	 automatically adding sounds to silent movies?
+- http://www.cs.toronto.edu/~graves/handwriting.cgi?text=My+name+is+Luka&style=&bias=0.15&samples=3	 automatic handwriting generation
+- https://aws.amazon.com/lex/faqs/	 Amazon Lex
+- https://code.facebook.com/posts/1827693967466780/building-an-efficient-neural-language-model-over-a-billion-words/	 building language models
+- https://arxiv.org/pdf/1511.06939.pdf	 here is an interesting read
