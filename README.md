@@ -188,3 +188,6 @@ Repository for Udacity Deep Learning Program
 - http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf Understanding the difficulty of training deep feedforward neural networks
 - https://arxiv.org/pdf/1502.01852v1.pdf Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
 - https://arxiv.org/pdf/1502.03167v2.pdf Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+
+## Style Transfer
+https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
