@@ -190,4 +190,4 @@ Repository for Udacity Deep Learning Program
 - https://arxiv.org/pdf/1502.03167v2.pdf Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 
 ## Style Transfer
-https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
+- https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
