@@ -212,3 +212,10 @@ Repository for Udacity Deep Learning Program
 - https://aws.amazon.com/lex/faqs/	 Amazon Lex
 - https://code.facebook.com/posts/1827693967466780/building-an-efficient-neural-language-model-over-a-billion-words/	 building language models
 - https://arxiv.org/pdf/1511.06939.pdf	 here is an interesting read
+
+## Feed Forward
+- http://linear.ups.edu/html/section-LC.html	 Linear Combination
+- https://en.wikipedia.org/wiki/Matrix_multiplication	 Matrix Multiplication
+- https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions	 here
+- https://en.wikipedia.org/wiki/Mean_squared_error	 Mean Squared Error (MSE)
+- https://www.ics.uci.edu/~pjsadows/notes.pdf	 cross entropy
