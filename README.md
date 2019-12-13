@@ -219,3 +219,10 @@ Repository for Udacity Deep Learning Program
 - https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions	 here
 - https://en.wikipedia.org/wiki/Mean_squared_error	 Mean Squared Error (MSE)
 - https://www.ics.uci.edu/~pjsadows/notes.pdf	 cross entropy
+- As a reminder, the two Error functions most commonly used are the Mean Squared Error (MSE) (usually used in regression problems) and the cross entropy (often used in classification problems).
+
+## Backpropagation Theory
+-	http://www.columbia.edu/itc/sipa/math/calc_rules_multivar.html	 Partial Derivatives
+-	http://tutorial.math.lamar.edu/pdf/Common_Derivatives_Integrals.pdf	 common derivatives
+-	http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/	 Tuning the learning rate resource 1
+-	http://cs231n.github.io/neural-networks-3/#loss	 Tuning the learning rate resource 2
