@@ -226,3 +226,7 @@ Repository for Udacity Deep Learning Program
 -	http://tutorial.math.lamar.edu/pdf/Common_Derivatives_Integrals.pdf	 common derivatives
 -	http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/	 Tuning the learning rate resource 1
 -	http://cs231n.github.io/neural-networks-3/#loss	 Tuning the learning rate resource 2
+
+## RNN Implementation
+-	http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1402_1/abstract	 Elman Network
+-	https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks	 additional info
