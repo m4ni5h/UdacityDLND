@@ -230,3 +230,15 @@ Repository for Udacity Deep Learning Program
 ## RNN Implementation
 -	http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1402_1/abstract	 Elman Network
 -	https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks	 additional info
+
+- https://arxiv.org/abs/1211.5063 gradient clipping
+
+## RNN to LSTM
+- http://www.bioinf.jku.at/publications/older/2604.pdf	 (LSTM)
+- https://en.wikipedia.org/wiki/Sepp_Hochreiter	 Sepp Hochreiter
+- http://people.idsia.ch/~juergen/	 Jürgen Schmidhuber
+
+## Intro to LSTM
+-	http://colah.github.io/posts/2015-08-Understanding-LSTMs/	 Chris Olah's LSTM post
+-	http://blog.echen.me/2017/05/30/exploring-lstms/	 Edwin Chen's LSTM post
+-	https://www.youtube.com/watch?v=iX5V1WpxxkY	 Andrej Karpathy's lecture
