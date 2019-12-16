@@ -242,3 +242,11 @@ Repository for Udacity Deep Learning Program
 -	http://colah.github.io/posts/2015-08-Understanding-LSTMs/	 Chris Olah's LSTM post
 -	http://blog.echen.me/2017/05/30/exploring-lstms/	 Edwin Chen's LSTM post
 -	https://www.youtube.com/watch?v=iX5V1WpxxkY	 Andrej Karpathy's lecture
+- http://www.cs.toronto.edu/~guerzhoy/321/lec/W09/rnn_gated.pdf
+- https://pytorch.org/docs/stable/nn.html#recurrent-layers
+
+## Character Level LSTM
+- http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+- https://github.com/karpathy/char-rnn
+- https://pytorch.org/docs/stable/torch.html#torch.topk
+- https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
