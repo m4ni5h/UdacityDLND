@@ -262,7 +262,8 @@ Repository for Udacity Deep Learning Program
 ### Model Hyperparameters
 - Number of layers
 - Model structure variables
--	https://www.tensorflow.org/api_docs/python/tf/train/exponential_decay	 Exponential Decay
+### Exponential Decay of Learning rate
+-	https://www.tensorflow.org/api_docs/python/tf/train/exponential_decay	 
 ### Adaptive Learning Optimizers
 -	https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer	 AdamOptimizer
 -	https://www.tensorflow.org/api_docs/python/tf/train/AdagradOptimizer	 AdagradOptimizer
