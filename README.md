@@ -250,3 +250,19 @@ Repository for Udacity Deep Learning Program
 - https://github.com/karpathy/char-rnn
 - https://pytorch.org/docs/stable/torch.html#torch.topk
 - https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
+
+
+## HyperParameters
+- http://jalammar.github.io/
+
+### Optimizer Hyperparameters
+- Learning rate
+- Minibatch size
+- Epochs
+### Model Hyperparameters
+- Number of layers
+- Model structure variables
+-	https://www.tensorflow.org/api_docs/python/tf/train/exponential_decay	 Exponential Decay
+### Adaptive Learning Optimizers
+-	https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer	 AdamOptimizer
+-	https://www.tensorflow.org/api_docs/python/tf/train/AdagradOptimizer	 AdagradOptimizer
