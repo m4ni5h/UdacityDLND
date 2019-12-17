@@ -258,12 +258,47 @@ Repository for Udacity Deep Learning Program
 ### Optimizer Hyperparameters
 - Learning rate
 - Minibatch size
-- Epochs
+- Epochs  {Early Stopping}
 ### Model Hyperparameters
-- Number of layers
+- Number of layers {Dropout, L2 Regularization}
 - Model structure variables
 ### Exponential Decay of Learning rate
 -	https://www.tensorflow.org/api_docs/python/tf/train/exponential_decay	 
 ### Adaptive Learning Optimizers
 -	https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer	 AdamOptimizer
 -	https://www.tensorflow.org/api_docs/python/tf/train/AdagradOptimizer	 AdagradOptimizer
+
+### Epochs
+- 	https://www.tensorflow.org/get_started/monitors#early_stopping_with_validationmonitor	 ValidationMonitor with tf.contrib.learn
+- 	https://www.tensorflow.org/api_docs/python/tf/train/SessionRunHook	 SessionRunHooks
+- 	https://www.tensorflow.org/api_guides/python/train#Training_Hooks	 training hooks
+- 	https://www.tensorflow.org/api_docs/python/tf/train/StopAtStepHook	 StopAtStepHook
+- 	https://www.tensorflow.org/api_docs/python/tf/train/NanTensorHook	 NanTensorHook
+
+### Number of Layers/Units
+- https://cs231n.github.io/neural-networks-1/   Andrej Karpathy
+- http://www.deeplearningbook.org/contents/ml.html	 Deep Learning book	 chapter 5.2
+
+### RNN Hyperparameters
+- 	https://arxiv.org/abs/1412.3555	 Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling	
+- 	http://proceedings.mlr.press/v37/jozefowicz15.pdf	 Jozefowicz	 et al. (2015)
+- 	https://arxiv.org/abs/1506.02078	 Visualizing and Understanding Recurrent Networks	
+- 	https://arxiv.org/pdf/1503.04069.pdf	 Greff	 et al. (2015)
+- 	https://colah.github.io/posts/2015-08-Understanding-LSTMs/	 Understanding LSTM Networks	
+- 	https://arxiv.org/abs/1703.03906v2	 Massive Exploration of Neural Machine Translation Architectures	
+- 	https://arxiv.org/abs/1610.09975	 Speech Recognition (large vocabulary)	
+- 	https://arxiv.org/abs/1303.5778	 Speech Recognition	
+- 	https://arxiv.org/abs/1409.3215	 Machine Translation (seq2seq)	
+- 	https://arxiv.org/abs/1411.4555	 Image Captioning	
+- 	https://arxiv.org/abs/1502.04623	 Image Generation	
+- 	http://www.aclweb.org/anthology/P15-2116	 Question Answering	
+- 	https://pdfs.semanticscholar.org/3fbc/45152f20403266b02c4c2adab26fb367522d.pdf	 Text Summarization	
+
+### Source and References
+- 	https://arxiv.org/abs/1206.5533	 Practical recommendations for gradient-based training of deep architectures
+- 	http://www.deeplearningbook.org/contents/guidelines.html	 Deep Learning book - chapter 11.4: Selecting Hyperparameters
+- 	http://neuralnetworksanddeeplearning.com/chap3.html#how_to_choose_a_neural_network's_hyper-parameters	 Neural Networks and Deep Learning book - Chapter 3: How to choose a neural network's hyper-parameters?
+- 	http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf	 Efficient BackProp (pdf)
+- 	https://arxiv.org/abs/1507.05523	 How to Generate a Good Word Embedding?
+- 	https://arxiv.org/abs/1606.02228	 Systematic evaluation of CNN advances on the ImageNet
+- 	https://arxiv.org/abs/1506.02078	 Visualizing and Understanding Recurrent Networks
