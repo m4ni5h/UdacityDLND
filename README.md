@@ -302,3 +302,7 @@ Repository for Udacity Deep Learning Program
 - 	https://arxiv.org/abs/1507.05523	 How to Generate a Good Word Embedding?
 - 	https://arxiv.org/abs/1606.02228	 Systematic evaluation of CNN advances on the ImageNet
 - 	https://arxiv.org/abs/1506.02078	 Visualizing and Understanding Recurrent Networks
+
+## Embeddings and Word2Vec
+- https://video.udacity-data.com/topher/2018/October/5bc56d28_word2vec-mikolov/word2vec-mikolov.pdf
+- https://video.udacity-data.com/topher/2018/October/5bc56da8_distributed-representations-mikolov2/distributed-representations-mikolov2.pdf
