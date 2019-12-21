@@ -306,3 +306,10 @@ Repository for Udacity Deep Learning Program
 ## Embeddings and Word2Vec
 - https://video.udacity-data.com/topher/2018/October/5bc56d28_word2vec-mikolov/word2vec-mikolov.pdf
 - https://video.udacity-data.com/topher/2018/October/5bc56da8_distributed-representations-mikolov2/distributed-representations-mikolov2.pdf
+-	https://en.wikipedia.org/wiki/Word2vec	 Word2Vec algorithm
+-	http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/	 conceptual overview
+-	https://arxiv.org/pdf/1301.3781.pdf	 Mikolov et al.
+-	http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf	 Neural Information Processing Systems
+-	https://s3.amazonaws.com/video.udacity-data.com/topher/2018/October/5bbe6499_text8/text8.zip	 text8 dataset
+-	https://pytorch.org/docs/stable/nn.html#embedding	 embedding layer
+-	http://colah.github.io/posts/2014-10-Visualizing-MNIST/	 this post from Christopher Olah
