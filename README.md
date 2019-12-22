@@ -313,3 +313,4 @@ Repository for Udacity Deep Learning Program
 -	https://s3.amazonaws.com/video.udacity-data.com/topher/2018/October/5bbe6499_text8/text8.zip	 text8 dataset
 -	https://pytorch.org/docs/stable/nn.html#embedding	 embedding layer
 -	http://colah.github.io/posts/2014-10-Visualizing-MNIST/	 this post from Christopher Olah
+- https://pytorch.org/docs/master/notes/extending.html
