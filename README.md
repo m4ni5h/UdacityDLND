@@ -314,3 +314,9 @@ Repository for Udacity Deep Learning Program
 -	https://pytorch.org/docs/stable/nn.html#embedding	 embedding layer
 -	http://colah.github.io/posts/2014-10-Visualizing-MNIST/	 this post from Christopher Olah
 - https://pytorch.org/docs/master/notes/extending.html
+
+
+## Attention
+- https://arxiv.org/abs/1409.0473   Neural Machine Translation by Jointly Learning to Align and Translate (Additive/Bahdanau Attention)
+- https://arxiv.org/abs/1508.04025  Effective Approaches to Attention-based Neural Machine Translation (Multiplicative/Luong Attention)
+
