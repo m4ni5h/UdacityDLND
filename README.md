@@ -327,3 +327,13 @@ Repository for Udacity Deep Learning Program
 -	https://arxiv.org/pdf/1607.05910.pdf	 Visual Question Answering: A Survey of Methods and Datasets	
 - https://arxiv.org/abs/1706.03762 Paper: Attention Is All You Need
 - https://www.youtube.com/watch?v=rBCqOTEfxvg Talk: Attention is all you need attentional neural network models – Łukasz Kaiser
+
+## GAN
+https://arxiv.org/abs/1612.03242	 StackGAN
+https://github.com/junyanz/iGAN	 iGAN
+https://video.udacity-data.com/topher/2018/November/5bea23cd_cartoongan/cartoongan.pdf	  CartoonGAN
+https://arxiv.org/pdf/1406.2661.pdf
+https://video.udacity-data.com/topher/2018/November/5bea0c6a_improved-training-techniques/improved-training-techniques.pdf	  Improved-training-techniques
+https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900	 Interesting Application
+https://www.fastcompany.com/90237233/this-ai-dreams-in-tulips	 this article
+https://vimeo.com/287645190	 full-length video
