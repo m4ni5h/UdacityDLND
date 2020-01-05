@@ -337,3 +337,14 @@ https://video.udacity-data.com/topher/2018/November/5bea0c6a_improved-training-t
 https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900	 Interesting Application
 https://www.fastcompany.com/90237233/this-ai-dreams-in-tulips	 this article
 https://vimeo.com/287645190	 full-length video
+
+https://en.wikipedia.org/wiki/Universal_approximation_theorem
+https://pytorch.org/docs/stable/nn.html#bceloss Binary Cross Entropy Loss
+https://arxiv.org/abs/1406.2661	 first reported on	
+https://affinelayer.com/pixsrv/	 Pix2Pix	
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix	 CycleGAN & Pix2Pix in PyTorch	 Jun-Yan Zhu
+https://github.com/wiseodd/generative-models	 A list of generative models	
+https://pytorch.org/docs/stable/nn.html#torch.nn.LeakyReLU	 Leaky ReLu
+https://pytorch.org/docs/stable/nn.html#bcewithlogitsloss	 BCEWithLogitsLoss
+https://pytorch.org/docs/stable/nn.html#tanh	 tanh activation function
+
