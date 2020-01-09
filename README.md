@@ -347,3 +347,12 @@ Repository for Udacity Deep Learning Program
 - https://pytorch.org/docs/stable/nn.html#torch.nn.LeakyReLU	 Leaky ReLu
 - https://pytorch.org/docs/stable/nn.html#bcewithlogitsloss	 BCEWithLogitsLoss
 - https://pytorch.org/docs/stable/nn.html#tanh	 tanh activation function
+
+## DCGAN
+- https://arxiv.org/pdf/1511.06434.pdf DCGAN Paper (UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS)
+- https://arxiv.org/pdf/1502.03167.pdf Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift.
+- https://pytorch.org/docs/stable/nn.html#batchnorm1d
+- https://pytorch.org/docs/stable/nn.html#batchnorm2d
+- https://arxiv.org/abs/1603.09025
+- https://github.com/jihunchoi/recurrent-batch-normalization-pytorch
+- 
