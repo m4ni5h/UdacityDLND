@@ -337,7 +337,6 @@ Repository for Udacity Deep Learning Program
 - https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900	 Interesting Application
 - https://www.fastcompany.com/90237233/this-ai-dreams-in-tulips	 this article
 - https://vimeo.com/287645190	 full-length video
-
 - https://en.wikipedia.org/wiki/Universal_approximation_theorem
 - https://pytorch.org/docs/stable/nn.html#bceloss Binary Cross Entropy Loss
 - https://arxiv.org/abs/1406.2661	 first reported on	
