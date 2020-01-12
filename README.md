@@ -354,4 +354,14 @@ Repository for Udacity Deep Learning Program
 - https://pytorch.org/docs/stable/nn.html#batchnorm2d
 - https://arxiv.org/abs/1603.09025
 - https://github.com/jihunchoi/recurrent-batch-normalization-pytorch
-- 
+- http://ufldl.stanford.edu/housenumbers/	 Street View House Numbers
+- https://pytorch.org/docs/stable/nn.html#bcewithlogitsloss	 BCEWithLogitsLoss
+- https://pytorch.org/docs/stable/nn.html#sequential	 Sequential container
+- https://pytorch.org/docs/stable/nn.html#convtranspose2d	 transpose convolutional layers
+- https://blog.openai.com/adversarial-example-research/ "attack" existing models
+- https://github.com/Sleepychord/ImprovedGAN-pytorch    Semi-Supervised Learning in PyTorch
+- https://github.com/Sleepychord/ImprovedGAN-pytorch	 this Github repository
+- https://arxiv.org/abs/1709.02480	 Fine-Grained Car Detection for Visual Census Estimation
+- https://arxiv.org/pdf/1705.11122.pdf	 adversarial feature learning
+- https://www.newyorker.com/magazine/2018/11/12/in-the-age-of-ai-is-seeing-still-believing	 Ethical implications of GANs
+- https://www.ssense.com/en-us/editorial/fashion/do-androids-dream-of-balenciaga-ss29	 Do Androids Dream in Balenciaga?
