@@ -384,3 +384,7 @@ https://affinelayer.com/pixsrv/ image-to-image demo
 https://github.com/NVIDIA/pix2pixHD high-resolution GANs
 Augmented CycleGAN  https://arxiv.org/abs/1802.10151
 Implementation of StarGAN https://github.com/yunjey/StarGAN
+https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
+https://arxiv.org/abs/1608.04117
+https://arxiv.org/abs/1611.04076	 LSGAN paper
+https://arxiv.org/abs/1701.07875	 Wasserstein GAN loss
