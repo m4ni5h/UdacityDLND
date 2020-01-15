@@ -365,3 +365,20 @@ Repository for Udacity Deep Learning Program
 - https://arxiv.org/pdf/1705.11122.pdf	 adversarial feature learning
 - https://www.newyorker.com/magazine/2018/11/12/in-the-age-of-ai-is-seeing-still-believing	 Ethical implications of GANs
 - https://www.ssense.com/en-us/editorial/fashion/do-androids-dream-of-balenciaga-ss29	 Do Androids Dream in Balenciaga?
+
+## CycleGAN and PixPix
+- https://www.csail.mit.edu/
+- https://people.csail.mit.edu/junyanz/
+- https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix Cycle GAN repository
+- https://arxiv.org/pdf/1703.10593.pdf CycleGAN Paper
+
+http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf    Ian Goodfellow's original paper on GANs
+https://arxiv.org/pdf/1712.03451.pdf    Face swap with CycleGAN Face-off
+
+https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html  cross entropy loss
+
+https://github.com/junyanz/iGAN/blob/master/README.md    interactive GAN, iGAN
+https://arxiv.org/pdf/1611.07004.pdf	 original Pix2Pix paper	
+https://tcwang0509.github.io/pix2pixHD/	 high resolution	 conditional GANs
+https://affinelayer.com/pixsrv/ image-to-image demo    
+https://github.com/NVIDIA/pix2pixHD high-resolution GANs
