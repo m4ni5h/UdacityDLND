@@ -382,3 +382,5 @@ https://arxiv.org/pdf/1611.07004.pdf	 original Pix2Pix paper
 https://tcwang0509.github.io/pix2pixHD/	 high resolution	 conditional GANs
 https://affinelayer.com/pixsrv/ image-to-image demo    
 https://github.com/NVIDIA/pix2pixHD high-resolution GANs
+Augmented CycleGAN  https://arxiv.org/abs/1802.10151
+Implementation of StarGAN https://github.com/yunjey/StarGAN
