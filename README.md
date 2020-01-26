@@ -388,3 +388,25 @@ https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f560
 https://arxiv.org/abs/1608.04117
 https://arxiv.org/abs/1611.04076	 LSGAN paper
 https://arxiv.org/abs/1701.07875	 Wasserstein GAN loss
+
+## Deployment
+- https://aws.amazon.com/	 Amazon Web Services
+- https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-mlconcepts.html	 Machine Learning Workflow
+- https://cloud.google.com/	 Google Cloud Platform
+- https://cloud.google.com/ml-engine/docs/tensorflow/ml-solutions-overview	 Machine Learning Workflow
+- https://azure.microsoft.com/en-us/	 Microsoft Azure
+- https://docs.microsoft.com/en-us/azure/machine-learning/service/overview-what-is-azure-ml	 Machine Learning Workflow
+- https://www.google.com/drive/	 Google Drive
+- https://www.apple.com/icloud/	 Apple’s iCloud
+- https://onedrive.live.com/about/en-us/	 Microsoft’s OneDrive
+- https://aws.amazon.com/what-is-cloud-computing/	 Cloud Computing
+- https://cloud.google.com/what-is-cloud-computing/	 Cloud Computing
+- https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/	 Cloud Computing
+- https://aws.amazon.com/security/introduction-to-cloud-security/	 security
+- https://cloud.google.com/security/data-safety/	 security
+- https://www.microsoft.com/en-us/TrustCenter/CloudServices/Azure/default.aspx	 security
+- https://www.nist.gov/	 National Institute of Standards and Technology
+- https://csrc.nist.gov/publications/detail/sp/800-145/final	 Cloud Computing
+- https://aws.amazon.com/	 Amazon Web Services
+- https://cloud.google.com/	 Google Cloud Platform
+- https://azure.microsoft.com/en-us/	 Microsoft Azure
