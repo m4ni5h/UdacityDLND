@@ -410,3 +410,7 @@ https://arxiv.org/abs/1701.07875	 Wasserstein GAN loss
 - https://aws.amazon.com/	 Amazon Web Services
 - https://cloud.google.com/	 Google Cloud Platform
 - https://azure.microsoft.com/en-us/	 Microsoft Azure
+- https://sagemaker.readthedocs.io/en/latest/transformer.html Transformer Documentation
+https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html
+https://edouardfouche.com/Data-Stream-Generation-with-Concept-Drift/ concept drift
+
