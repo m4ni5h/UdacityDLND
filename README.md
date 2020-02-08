@@ -414,3 +414,7 @@ Repository for Udacity Deep Learning Program
 - https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker.html#SageMaker.Client.describe_hyper_parameter_tuning_job
 - https://sagemaker.readthedocs.io/en/stable/tuner.html
 - https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker.html#SageMaker.Client.update_endpoint
+
+- https://docs.aws.amazon.com/sagemaker/latest/dg/
+- https://sagemaker.readthedocs.io/en/latest/
+- https://github.com/aws/sagemaker-python-sdk
